@@ -1,4 +1,4 @@
-# Azure 실습
+# Azure 실습 - SKcc 4조
 
 
 ## 1. Azure IaaS 환경 구축
