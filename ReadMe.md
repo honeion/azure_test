@@ -1,5 +1,6 @@
 # Azure 실습
 
+
 ## 1. Azure IaaS 환경 구축
 
 - VM 생성
@@ -31,3 +32,4 @@
   ### [한국 중부 - 웹페이지](./korea_mid_index/index.html)
   ### [한국 남부 - 웹페이지](./korea_south_index/index.html)
   
+  ### **웹사이트 결과물** [http://team04-tm.trafficmanager.net/](http://team04-tm.trafficmanager.net/)
